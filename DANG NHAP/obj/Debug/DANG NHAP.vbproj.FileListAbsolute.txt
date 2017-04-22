@@ -1,0 +1,18 @@
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\bin\Debug\DANG NHAP.exe.config
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\bin\Debug\DANG NHAP.exe
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\bin\Debug\DANG NHAP.pdb
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\bin\Debug\DANG NHAP.xml
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\obj\Debug\WindowsApplication1.DANGNHAP.resources
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\obj\Debug\WindowsApplication1.Resources.resources
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\obj\Debug\DANG NHAP.vbproj.GenerateResource.Cache
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\obj\Debug\DANG NHAP.exe
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\obj\Debug\DANG NHAP.xml
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\obj\Debug\DANG NHAP.pdb
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\obj\Debug\WindowsApplication1.capnhatkhachhang.resources
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\obj\Debug\WindowsApplication1.Main.resources
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\obj\Debug\WindowsApplication1.quanlynhanvien.resources
+E:\Dam may\New folder (3)\DANG NHAP\DANG NHAP\obj\Debug\WindowsApplication1.frmcapnhatsp.resources
+E:\Dam may\New folder (3)\DANG NHAP\bin\Debug\DANG NHAP.exe.config
+E:\Dam may\New folder (3)\DANG NHAP\obj\Debug\DANG NHAP.exe
+E:\Dam may\New folder (3)\DANG NHAP\obj\Debug\DANG NHAP.xml
+E:\Dam may\New folder (3)\DANG NHAP\obj\Debug\DANG NHAP.pdb
